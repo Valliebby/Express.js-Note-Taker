@@ -50,9 +50,6 @@ NoteTaker is a simple and user-friendly application that allows users to quickly
 
 Contributions to the NoteTaker app are welcome! If you find any bugs or have suggestions for new features, please submit an issue or open a pull request on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
@@ -61,3 +58,8 @@ For any inquiries or feedback, please contact [vewebdevelopment@gmail.com]
 ---
 
 Thank you for using Express.js NoteTaker! We hope it enhances your productivity and helps you stay organized.
+
+
+https://github.com/Valliebby/Express.js-Note-Taker/assets/119483866/ea7e5346-a974-4220-ac68-54591b7e6aa9
+
+
