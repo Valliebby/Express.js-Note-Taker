@@ -17,7 +17,7 @@ NoteTaker is a simple and user-friendly application that allows users to quickly
 - **Dark Mode:** Switch to a visually pleasing dark mode for comfortable usage during nighttime.
 
 ## Installation
-0. Link: https://valliebby.github.io/Express.js-Note-Taker/
+0. Link: https://noapp-d171519cbb3f.herokuapp.co
 1. Clone the repository: `git clone https://github.com/Valliebby/Express.js-Note-Taker`
 2. Navigate to the project directory: `cd notetaker-app`
 3. Install the required dependencies: `npm install`
